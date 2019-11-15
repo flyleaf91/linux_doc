@@ -7,11 +7,11 @@ EBF6ULL S1 Mini开发板是野火电子基于NXP i.MX
 6ULL系列处理器设计的一款低功耗单板电脑，工业级主频最高可达 800MHz，具体见图
 1‑1。
 
-![](media/184f64a3755869c705698ebc361961cd.jpg)
+![](../media/184f64a3755869c705698ebc361961cd.jpg)
 
 图 1‑1 EBF6ULL S1 Mini开发板正面
 
-![](media/5925c9a59da2ccdc242fd051dd84a457.jpg)
+![](../media/5925c9a59da2ccdc242fd051dd84a457.jpg)
 
 图 1‑2 EBF6ULL S1 Mini开发板背面
 
@@ -23,7 +23,7 @@ Mini开发板提供完整的SDK驱动开发包、核心板封装库，底板应�
 1‑3，元件采用工业级选料，其中核心板板载主控芯片512MB SDRAM，256MB
 NANDFLASH（或8GB eMMC）。
 
-![](media/d3cdf2837f39ba1ce51c87fe2b8ecfbf.jpg)
+![](../media/d3cdf2837f39ba1ce51c87fe2b8ecfbf.jpg)
 
 图 1‑3 EBF6ULL S1邮票孔核心板内部（eMMC版本）
 
@@ -112,11 +112,11 @@ S1邮票孔核心板包含NANDFLASH和eMMC两个版本，它们均能适配Mini�
 
 EBF6ULL S1 Mini底板引出的排针接口功能见图 2‑1和图 2‑2。
 
-![](media/fc579db269be1fd45464f4c8df6eb3c8.png)
+![](../media/fc579db269be1fd45464f4c8df6eb3c8.png)
 
 图 2‑1 CN3排针接口原理图
 
-![](media/789afb1c05ad1a36fee882501bfc6333.png)
+![](../media/789afb1c05ad1a36fee882501bfc6333.png)
 
 图 2‑2 CN4排针接口原理图
 
@@ -128,7 +128,7 @@ EBF6ULL S1 Mini底板引出的排针接口功能见图 2‑1和图 2‑2。
 EBF6ULL S1核心板的尺寸为39×39mm，具体见图 3‑1。EBF6ULL
 S1核心板可以作为一个模组嵌入到PCB底板中，为了减少用户在制作核心板的PCB封装时的尺寸误差，我们提供了核心板的DWG文件，在设计底板PCB时候，只需将我们提供好的核心板DWG文件导入到底板PCB即可。
 
-![](media/8ad9953551dc38e4d78dfd93785e9340.png)
+![](../media/8ad9953551dc38e4d78dfd93785e9340.png)
 
 图 3‑1 EBF6ULL S1邮票孔核心板尺寸图，单位mm
 
@@ -136,7 +136,7 @@ S1核心板可以作为一个模组嵌入到PCB底板中，为了减少用户在
 
 EBF6ULL S1 Mini底板尺寸为100×61.8mm，具体见图 3‑2。
 
-![](media/629fe117548a7e680e376050d355009f.png)
+![](../media/629fe117548a7e680e376050d355009f.png)
 
 图 3‑2 EBF6ULL S1 Mini底板尺寸图，单位mm
 
@@ -166,6 +166,6 @@ QQ：313303034
 
 淘宝：<https://fire-stm32.taobao.com>
 
-![](media/d35db373b092964b745f897492ec7ca0.jpg)
+![](../media/d35db373b092964b745f897492ec7ca0.jpg)
 
 关注野火公众号，可免费获取野火全部产品的资料。

@@ -7,15 +7,12 @@ Welcome to i.MX Linux开发实战指南's documentation!
 ==================================================
 
 
-## Contents
-
-- [datasheet](datasheet/EBF6ULL_Pro开发板数据手册.md)
-
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   datasheet/EBF6ULL_Pro开发板数据手册.md
 
 
 
